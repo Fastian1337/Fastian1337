@@ -88,15 +88,14 @@ class BilalRasheed:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fastian1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Fastian1337&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fastian1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fastian1337&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&layout=compact" />
+<img src="https://streak-stats.demolab.com/?user=Fastian1337&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
 
 </div>
 
@@ -104,9 +103,11 @@ class BilalRasheed:
 
 ## 🏆 GitHub Trophies
 
+> *Note: Trophies load from a third-party service — may take a few seconds or require a page refresh.*
+
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Fastian1337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fastian1337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" />
 
 </div>
 
@@ -114,9 +115,11 @@ class BilalRasheed:
 
 ## 📈 Contribution Graph
 
+> *Note: Graph loads from a third-party service — may require a page refresh.*
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fastian1337&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fastian1337&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -126,11 +129,11 @@ class BilalRasheed:
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔍 [**TraceGuard**](https://github.com/Fastian1337/traceguard) | AI payment dispute investigation system | Python · LangChain · FastAPI |
-| 🏥 [**HealthLink**](https://github.com/Fastian1337/HealthLink-development) | AI-powered healthcare ecosystem with 5 portals | React · FastAPI · XGBoost · ElevenLabs |
-| 🎬 [**DevSecOps Pipeline**](https://github.com/Fastian1337/DevSecOps-Project-Netflix-Clone) | Cloud-native CI/CD pipeline on AWS EKS | Docker · K8s · Jenkins · Grafana |
+| | Project | Description | Stack |
+|--|---------|-------------|-------|
+| 🔍 | [**TraceGuard**](https://github.com/Fastian1337/traceguard) | AI payment dispute investigation system | Python · LangChain · FastAPI |
+| 🏥 | [**HealthLink**](https://github.com/Fastian1337/HealthLink-development) | AI healthcare ecosystem — 5 portals, voice AI, disease prediction | React · FastAPI · XGBoost · ElevenLabs |
+| 🎬 | [**DevSecOps Pipeline**](https://github.com/Fastian1337/DevSecOps-Project-Netflix-Clone) | Cloud-native CI/CD on AWS EKS with full monitoring | Docker · K8s · Jenkins · Grafana |
 
 </div>
 
