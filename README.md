@@ -106,7 +106,7 @@ class BilalRasheed:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fastian1337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Fastian1337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -116,7 +116,7 @@ class BilalRasheed:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fastian1337&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=8" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fastian1337&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -126,10 +126,11 @@ class BilalRasheed:
 
 <div align="center">
 
-[![TraceGuard](https://github-readme-stats.vercel.app/api/pin/?username=Fastian1337&repo=traceguard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/Fastian1337/traceguard)
-[![HealthLink](https://github-readme-stats.vercel.app/api/pin/?username=Fastian1337&repo=HealthLink-development&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/Fastian1337/HealthLink-development)
-
-[![DevSecOps Netflix](https://github-readme-stats.vercel.app/api/pin/?username=Fastian1337&repo=DevSecOps-Project-Netflix-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/Fastian1337/DevSecOps-Project-Netflix-Clone)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔍 [**TraceGuard**](https://github.com/Fastian1337/traceguard) | AI payment dispute investigation system | Python · LangChain · FastAPI |
+| 🏥 [**HealthLink**](https://github.com/Fastian1337/HealthLink-development) | AI-powered healthcare ecosystem with 5 portals | React · FastAPI · XGBoost · ElevenLabs |
+| 🎬 [**DevSecOps Pipeline**](https://github.com/Fastian1337/DevSecOps-Project-Netflix-Clone) | Cloud-native CI/CD pipeline on AWS EKS | Docker · K8s · Jenkins · Grafana |
 
 </div>
 
