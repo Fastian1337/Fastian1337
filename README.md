@@ -89,14 +89,14 @@ class BilalRasheed:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fastian1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian1337&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Fastian1337&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" />
 
 </div>
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fastian1337&theme=tokyonight&utcOffset=5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fastian1337&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&layout=compact" />
 
 </div>
 
@@ -106,7 +106,7 @@ class BilalRasheed:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fastian1337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Fastian1337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
@@ -116,7 +116,7 @@ class BilalRasheed:
 
 <div align="center">
 
-[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fastian1337&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fastian1337&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=8" />
 
 </div>
 
@@ -127,7 +127,9 @@ class BilalRasheed:
 <div align="center">
 
 [![TraceGuard](https://github-readme-stats.vercel.app/api/pin/?username=Fastian1337&repo=traceguard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/Fastian1337/traceguard)
-[![Netflix DevSecOps](https://github-readme-stats.vercel.app/api/pin/?username=Fastian1337&repo=DevSecOps-Project-Netflix-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/Fastian1337/DevSecOps-Project-Netflix-Clone)
+[![HealthLink](https://github-readme-stats.vercel.app/api/pin/?username=Fastian1337&repo=HealthLink-development&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/Fastian1337/HealthLink-development)
+
+[![DevSecOps Netflix](https://github-readme-stats.vercel.app/api/pin/?username=Fastian1337&repo=DevSecOps-Project-Netflix-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff)](https://github.com/Fastian1337/DevSecOps-Project-Netflix-Clone)
 
 </div>
 
@@ -143,10 +145,12 @@ class BilalRasheed:
 
 ---
 
-## 🎓 Certifications
+## 🎓 Education & Certifications
 
-- 🏅 **AWS Certified Cloud Practitioner**
-- 🎓 **BS Computer Science** — FAST-NUCES, Islamabad (2022–2026)
+```
+🎓  BS Computer Science        │ FAST-NUCES, Islamabad                  │ 2022 – 2026
+🏅  AWS Certified              │ Cloud Practitioner                      │ Verified
+```
 
 ---
 
@@ -155,8 +159,9 @@ class BilalRasheed:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-rasheed1337)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalrasheed9818@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalrasheed9818@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fastian1337)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=firefox&logoColor=white)](https://fastian1337.github.io/)
 
 </div>
 
